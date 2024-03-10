@@ -138,6 +138,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(MainActivity.this,"Destroy",Toast.LENGTH_SHORT).show();
     }
 }
+```
 COLORS-XML
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -145,6 +146,7 @@ COLORS-XML
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>
+
 ANDROID MANIFEST-XML
 
 <?xml version="1.0" encoding="utf-8"?>
