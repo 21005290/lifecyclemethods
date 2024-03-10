@@ -176,8 +176,9 @@ ANDROID MANIFEST-XML
 
 
 ## OUTPUT
-![image](https://github.com/21005290/lifecyclemethods/assets/112933246/85e43f35-5bca-4911-9bd3-c148893d2d8b)
-![image](https://github.com/21005290/lifecyclemethods/assets/112933246/9682e02b-c67a-4d4e-9c93-b90db3cab031)
+![image](https://github.com/21005290/lifecyclemethods/assets/112933246/737da8e0-177a-4958-81d4-28cf3e2b7f71)
+![image](https://github.com/21005290/lifecyclemethods/assets/112933246/909dc09b-15bc-47c4-a534-550c222a12c5)
+
 
 
 
